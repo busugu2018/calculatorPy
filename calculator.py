@@ -1,3 +1,24 @@
+# Future Features
+
+# Supports Addition, Subtraction, Multiplication, Division ---> Done
+
+# Prevents division by zero errors ---> Done
+
+# Interactive menu-driven interface
+
+# Loop system to perform multiple calculations until exit
+
+# Beginner-friendly code with clear functions ---> Done
+
+# Add advanced functions (square root, modulus, power, etc.)
+
+# Implement a calculation history feature
+
+# Build a GUI version using tkinter
+
+
+
+
 #Beginner's way.
 
 def add(x, y):
